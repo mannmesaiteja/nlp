@@ -1,8 +1,6 @@
 import re
 from pprint import pprint
 
-
-
 def order_number():  # Retrieve order number
     """
         from below sentences we need to find/retrieve the order ids
